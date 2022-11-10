@@ -31,16 +31,14 @@ Users should be able to:
 
 #### Desktop view
 
-![](Solution design/desktop_view.jpg)
+<img src="Solution design/desktop_view.jpg" alt="desktop view image">
 
 #### Desktop view active
-
-![](/Solution design/desktop_active_view.jpg)
-![](Solution design/desktop_active_view.jpg)
+<img src="Solution design/desktop_active_view.jpg" alt="desktop active view image">
 
 #### Mobile view
 
-![](Solution design/mobile_view.jpg)
+<img src="Solution design/mobile_view.jpg" alt=" Mobile view image">
 
 
 ### Links
