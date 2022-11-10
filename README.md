@@ -16,7 +16,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -31,12 +30,16 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop view
+
 ![](Solution design/desktop_view.jpg)
 
 #### Desktop view active
+
+![](/Solution design/desktop_active_view.jpg)
 ![](Solution design/desktop_active_view.jpg)
 
 #### Mobile view
+
 ![](Solution design/mobile_view.jpg)
 
 
@@ -61,24 +64,26 @@ Users should be able to:
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-'''Flexbox
+```
+Flexbox
 display: flex;
 flex-wrap: wrap;
-flex-direction: row;'''
+flex-direction: row; 
 
-'''Import font from google font
+Import font from google font
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500&display=swap" rel="stylesheet">'''
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500&display=swap" rel="stylesheet">
 
-'''responsive web design
-@media only screen and (max-width:725px)'''
+responsive web design
+@media only screen and (max-width:725px)
 
-'''Assign CSS property to multiple selector
-.content > div {}'''
+Assign CSS property to multiple selector
+.content > div {}
 
-'''Mobile view inspect
-inspect can view mobile'''
+Mobile view inspect
+inspect can view mobile
+```
 
 ### Continued development
 
