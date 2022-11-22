@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://amirz25.github.io/WD_Product-preview-card-component/)
 
 ## My process
 
